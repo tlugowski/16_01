@@ -1,0 +1,3 @@
+﻿1. Stworzyłem a) Model b) kontroller c)Registration html i niewiem skąd strona logowania.html - jest już wypełniona jakimiś wartościami - co zrobłem nie tak po kolei
+2. jak zrobić zeby strona rejestracji pojawiala sie dopiero po zalogowaniu
+3. jak zrobic zeby na poczatku byla tylko strona logowania a jak sie dobrze zalogujemy to dopiero strona z zakladkami
