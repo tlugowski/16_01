@@ -148,13 +148,21 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AnimalsController.cs" />
     <Compile Include="Controllers\BookController.cs" />
+    <Compile Include="Controllers\CarRegistrationController.cs" />
+    <Compile Include="Controllers\CDController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\HumanController.cs" />
     <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Animals.cs" />
     <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\CarRegistration.cs" />
+    <Compile Include="Models\CD.cs" />
+    <Compile Include="Models\Human.cs" />
     <Compile Include="Models\Registration.cs" />
     <Compile Include="Models\UserCredentials.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -203,10 +211,14 @@
     <Content Include="Views\Book\Create.cshtml" />
     <Content Include="Views\Book\Details.cshtml" />
     <Content Include="Views\Home\Registration.cshtml" />
+    <Content Include="Views\Registration\Registration.cshtml" />
+    <Content Include="Views\CD\CD.cshtml" />
+    <Content Include="Views\Human\Human.cshtml" />
+    <Content Include="Views\Animals\Animals.cshtml" />
+    <Content Include="Views\CarRegistration\CarRegistration.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Registration\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

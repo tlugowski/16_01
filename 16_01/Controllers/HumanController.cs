@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace _16_01.Controllers
 {
-    public class RegistrationController : Controller
+    public class HumanController : Controller
     {
-        // GET: Registration
+        // GET: Human
         public ActionResult ShowForm()
         {
-            return View("Registration");
+            return View("Human");
         }
     }
 }
