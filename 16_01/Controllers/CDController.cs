@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Windows.Forms;
 
 namespace _16_01.Controllers
 {
@@ -24,21 +25,19 @@ namespace _16_01.Controllers
         /// <param name="model"></param>
         /// <returns></returns>
         [HttpPost]
-        public ActionResult Create(CD model)
+        public ActionResult Create(UserCredentials model)
         {
-                if (ModelState.IsValid)
+            if (ModelState.IsValid)
             {
+                MessageBox.Show("Udało sie");
                 //dane sa poprawne
                 //zapisz do bazy 
                 //przygotuj potwierdzenie 
-               
             }
             else
-            {
-                
+            { 
                 //dane nie sa poprawne 
             }
-
             //if (model.Title.Length > 64) throw new Exception("Błedne dane" );
             //if (model.Title.Length < 3) throw new Exception("Błedne dane");
 

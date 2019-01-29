@@ -10,7 +10,7 @@ namespace _16_01.Controllers
     public class AnimalsController : Controller
     {
         // GET: Animals
-        public ActionResult ShowForm()
+        public ActionResult Animals()
         {
             var model = new Animals();
             model.GeneralType = "Psy";

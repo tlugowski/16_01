@@ -48,6 +48,6 @@ c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\bi
 c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\bin\System.Web.WebPages.Razor.xml
 c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\bin\Antlr3.Runtime.pdb
 c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\bin\Newtonsoft.Json.xml
-c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\obj\Debug\16_01.csprojResolveAssemblyReference.cache
 c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\obj\Debug\16_01.dll
 c:\users\tomek i iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\obj\Debug\16_01.pdb
+C:\Users\Tomek i Iza\documents\visual studio 2015\Projects\tosamo\16_01\16_01\obj\Debug\16_01.csprojResolveAssemblyReference.cache
